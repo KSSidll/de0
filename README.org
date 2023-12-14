@@ -1,0 +1,22 @@
+* Introduction
+
+A personal project
+An editor
+In rust
+
+I might not believe in God, but i might need their help
+-----
+
+Inspired by
+- [[https://www.gnu.org/software/emacs/][Emacs]], which I believe to be the best editor yet with its fully modal nature
+- [[https://www.vim.org/][Vim]] and [[https://neovim.io/][Neovim]], with what I believe to be the best way of movement in text with its separation of text edition actions into modes
+
+* Goals
+
+- Keyboard first, if using mouse makes something easier, the project is a failure
+- Fast, native, async
+- Modality first, currently activated modes determine what happens
+- Everything as a command call, ability to modify what should happen when
+
+
+  
