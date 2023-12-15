@@ -1,7 +1,8 @@
 * Introduction
 
-A personal project
+A personal project \\
 An editor
+
 In rust
 
 I might not believe in God, but i might need their help
@@ -17,6 +18,7 @@ Inspired by
 - Fast, native, async
 - Modality first, currently activated modes determine what happens
 - Everything as a command call, ability to modify what should happen when
+- Terminal ([[https://github.com/ratatui-org/ratatui][ratatui]]) and standalone ([[https://github.com/rust-windowing/winit][winit]] + [[https://github.com/vulkano-rs/vulkano][vulkano]]) app support
 
 
   
