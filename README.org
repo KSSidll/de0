@@ -15,7 +15,7 @@ Inspired by
 * Goals
 
 - Keyboard first, if using mouse makes something easier, the project is a failure
-- Fast, native, async
+- Fast, native, async(?)
 - Modality first, currently activated modes determine what happens
 - Everything as a command call, ability to modify what should happen when
 - Terminal ([[https://github.com/ratatui-org/ratatui][ratatui]]) and standalone ([[https://github.com/rust-windowing/winit][winit]] + [[https://github.com/vulkano-rs/vulkano][vulkano]]) app support
